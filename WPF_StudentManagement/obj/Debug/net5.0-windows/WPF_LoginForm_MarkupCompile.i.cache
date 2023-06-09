@@ -1,0 +1,20 @@
+﻿WPF_LoginForm
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\
+WPF_StudentMagement
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\App.xaml
+10-1439571680
+
+28-1391750931
+251-1277156348
+CustomControls\BindablePassword.xaml;MainWindow.xaml;Styles\btnStyle.xaml;Styles\UIColors.xaml;View\Class.xaml;View\DashBoard.xaml;View\InfoCard.xaml;View\LoginView.xaml;View\MainView.xaml;View\StudentManegement.xaml;
+
+False
+

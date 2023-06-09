@@ -1,0 +1,632 @@
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\RepositoryBase.cs
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\WPF_StudentManagement.exe
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\WPF_StudentManagement.deps.json
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\WPF_StudentManagement.runtimeconfig.json
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\WPF_StudentManagement.runtimeconfig.dev.json
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\WPF_StudentManagement.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\WPF_StudentManagement.pdb
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Razor.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\System.Composition.Convention.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\System.Composition.Hosting.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\System.Composition.Runtime.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\System.Composition.TypedParts.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\WPF_StudentManagement.csproj.AssemblyReference.cache
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\Styles\btnStyle.baml
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\Styles\UIColors.baml
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\CustomControls\BindablePassword.g.cs
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\View\Class.g.cs
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\View\DashBoard.g.cs
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\View\InfoCard.g.cs
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\View\LoginView.g.cs
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\View\MainView.g.cs
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\View\StudentManegement.g.cs
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\WPF_StudentManagement_MarkupCompile.cache
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\WPF_StudentManagement_MarkupCompile.lref
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\App.baml
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\CustomControls\BindablePassword.baml
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\View\Class.baml
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\View\DashBoard.baml
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\View\InfoCard.baml
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\View\LoginView.baml
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\View\MainView.baml
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\View\StudentManegement.baml
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\WPF_StudentManagement.g.resources
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\WPF_StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\WPF_StudentManagement.AssemblyInfoInputs.cache
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\WPF_StudentManagement.AssemblyInfo.cs
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\WPF_StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\WPF_StudentManagement.csproj.CopyComplete
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\WPF_StudentManagement.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\refint\WPF_StudentManagement.dll
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\WPF_StudentManagement.pdb
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\WPF_StudentManagement.genruntimeconfig.cache
+C:\Users\Phi\Desktop\wpf\WPF-LoginForm (1)\WPF-LoginForm\obj\Debug\net5.0-windows\ref\WPF_StudentManagement.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\RepositoryBase.cs
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.exe
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.deps.json
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.runtimeconfig.json
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.runtimeconfig.dev.json
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.pdb
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Razor.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Composition.Convention.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Composition.Hosting.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Composition.Runtime.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Composition.TypedParts.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.csproj.AssemblyReference.cache
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\Styles\btnStyle.baml
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\Styles\UIColors.baml
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\CustomControls\BindablePassword.g.cs
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\Class.g.cs
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\DashBoard.g.cs
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\InfoCard.g.cs
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\LoginView.g.cs
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\MainView.g.cs
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\StudentManegement.g.cs
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement_MarkupCompile.cache
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement_MarkupCompile.lref
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\App.baml
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\CustomControls\BindablePassword.baml
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\Class.baml
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\DashBoard.baml
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\InfoCard.baml
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\LoginView.baml
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\MainView.baml
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\StudentManegement.baml
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.g.resources
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.AssemblyInfoInputs.cache
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.AssemblyInfo.cs
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.csproj.CopyComplete
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\refint\WPF_StudentManagement.dll
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.pdb
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.genruntimeconfig.cache
+C:\Users\Phi\Desktop\wpf\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\ref\WPF_StudentManagement.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\RepositoryBase.cs
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.exe
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.deps.json
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.runtimeconfig.json
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.runtimeconfig.dev.json
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.pdb
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Razor.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Composition.AttributedModel.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Composition.Convention.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Composition.Hosting.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Composition.Runtime.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Composition.TypedParts.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.csproj.AssemblyReference.cache
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\Styles\btnStyle.baml
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\Styles\UIColors.baml
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\CustomControls\BindablePassword.g.cs
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\Class.g.cs
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\DashBoard.g.cs
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\InfoCard.g.cs
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\LoginView.g.cs
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\MainView.g.cs
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\StudentManegement.g.cs
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement_MarkupCompile.cache
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement_MarkupCompile.lref
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\App.baml
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\CustomControls\BindablePassword.baml
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\Class.baml
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\DashBoard.baml
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\InfoCard.baml
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\LoginView.baml
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\MainView.baml
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\StudentManegement.baml
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.g.resources
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.AssemblyInfoInputs.cache
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.AssemblyInfo.cs
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.csproj.CopyComplete
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\refint\WPF_StudentManagement.dll
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.pdb
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.genruntimeconfig.cache
+C:\Users\ADmin\Desktop\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\ref\WPF_StudentManagement.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\RepositoryBase.cs
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.exe
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.deps.json
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.runtimeconfig.json
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.runtimeconfig.dev.json
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\WPF_StudentManagement.pdb
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\EPPlus.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Razor.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Composition.Convention.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Composition.Hosting.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Composition.Runtime.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Composition.TypedParts.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.csproj.AssemblyReference.cache
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\Styles\btnStyle.baml
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\Styles\UIColors.baml
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\CustomControls\BindablePassword.g.cs
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\Class.g.cs
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\DashBoard.g.cs
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\InfoCard.g.cs
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\LoginView.g.cs
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\MainView.g.cs
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\StudentManegement.g.cs
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement_MarkupCompile.cache
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement_MarkupCompile.lref
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\App.baml
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\CustomControls\BindablePassword.baml
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\Class.baml
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\DashBoard.baml
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\InfoCard.baml
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\LoginView.baml
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\MainView.baml
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\View\StudentManegement.baml
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.g.resources
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.AssemblyInfoInputs.cache
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.AssemblyInfo.cs
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.csproj.CopyComplete
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\refint\WPF_StudentManagement.dll
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.pdb
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\WPF_StudentManagement.genruntimeconfig.cache
+C:\Users\Phi\Desktop\PRN-2\ModernDesign\WPF_StudentManagement\WPF_StudentManagement\WPF_StudentManagement\obj\Debug\net5.0-windows\ref\WPF_StudentManagement.dll
